@@ -1,40 +1,40 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "ReactJS Developer && Instructor @CleverProgrammer",
-    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #papaReact",
-    "image": "IG_Sonny.jpeg",
-    "bio": "My name is Sonny, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
+    "name": "Hardik Singh",
+    "occupation": "Software Engineer",
+    "description": "Currently working as Software Engineer in startup Turtlemint",
+    "image": "Hardik_pic.jpeg",
+    "bio": "My name is Hardik Singh, I'm 2020 graduate from IIIT Bhubaneswar and  aspiring Full stack developer. Currently I'm working to improve my dev skills in Springboot,ReactJS ",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "sonny@cleverprogrammer.com",
-    "phone": "+44 12 345 6789",
+    "email": "B516057@iiit-bh.ac.in",
+    "phone": "+91 7978053362",
     "address": {
-      "street": "123 Fake Street",
-      "city": "London",
-      "state": "UK",
-      "zip": "ABC 123"
+      "street": "B-38/55 97 Sheel Nagar Colony,Mahmoorganj",
+      "city": "Varanasi",
+      "state": "UttarPradesh",
+      "zip": "221010"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "resumedownload": "Hardik_Singh.pdf",
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://www.facebook.com/hardiksngh98/",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha/",
+        "url": "https://www.linkedin.com/in/hardik-singh-9a6569160/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/hardik_singh98/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "http://github.com/sonnysangha",
+        "url": "https://github.com/hardikrkt98",
         "className": "fa fa-github"
       }
     ]
@@ -43,50 +43,50 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "University of Kent",
-        "degree": "Masters in Advanced Computer Science",
-        "graduated": "January 2017",
-        "description": "Graduated with Distinction"
+        "school": "IIIT Bhubaneswar",
+        "degree": "Bachelor of Technology",
+        "graduated": "August 2020",
+        "description": "Graduated with CGPA 8.61"
       }
     ],
     "work": [
       {
-        "company": "Clever Programmer",
-        "title": "Team Member && React Specialist",
-        "years": "April 2020 - Present",
-        "description": "Teaching ReactJS to thousands of students."
+        "company": "Turlemint",
+        "title": "Software Engineer",
+        "years": "Jan 2020 - Present",
+        "description": "Working on face pace startup.Involved in application dev.Tech stack- Springboot, Java, React JS"
       },
       {
-        "company": "Lindar Media",
-        "title": "Software Engineer",
-        "years": "Nov 2019 - April 2020",
-        "description": "Building MrQ, a gambling website."
+        "company": "Dell Technologies",
+        "title": "Software Engineer Intern",
+        "years": "May 2019 - July 2020",
+        "description": "Build an internal tool to check the status of HMC link on Dell website."
       }
     ],
     "skills": [
       {
-        "name": "ReactJs",
-        "level": "100%"
+        "name": "C++",
+        "level": "70%"
       },
       {
-        "name": "CSS",
-        "level": "95%"
+        "name": "Java",
+        "level": "60%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "25%"
       },
       {
         "name": "Git",
         "level": "60%"
       },
       {
-        "name": "Figma && Adobe XD",
-        "level": "55%"
-      },
-      {
         "name": "HTML5",
-        "level": "80%"
+        "level": "30%"
       },
       {
         "name": "MongoDB",
-        "level": "80%"
+        "level": "50%"
       }
     ]
   },
